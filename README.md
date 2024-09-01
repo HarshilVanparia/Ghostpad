@@ -1,2 +1,2 @@
-# Ghostpad
-Advance version of Notepad.
+# Notepad
+ 
